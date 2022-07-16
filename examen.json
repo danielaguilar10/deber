@@ -1,56 +1,54 @@
 {
-   "partidos":[
+    "partidos": [
       {
-         "alumno":"Daniel Aguilar",
-         "nota":7.09,
-         "ranking":8
-        
+        "alumno": "Daniel Aguilar",
+        "nota": 7.09,
+        "ranking": 8
       },
       {
-        "alumno":"Juan Leon",
-        "nota":10,
-        "ranking":10
+        "alumno": "Juan Leon",
+        "nota": 10,
+        "ranking": 10
       },
       {
-        "alumno":"Betsabet Guaman",
-        "nota":5,
-        "ranking":8
+        "alumno": "Betsabet Guaman",
+        "nota": 5,
+        "ranking": 8
       },
       {
-        "alumno":"Betsabet Guaman",
-        "nota":5,
-        "ranking":8
+        "alumno": "Betsabet Guaman",
+        "nota": 5,
+        "ranking": 8
       },
       {
-        "alumno":"Carmen Coral",
-        "nota":7,
-        "ranking":8
+        "alumno": "Carmen Coral",
+        "nota": 7,
+        "ranking": 8
       },
       {
-        "alumno":"Cindy Cabezas",
-        "nota":6,
-        "ranking":5
-       
-     },
-     {
-       "alumno":"Marco Colcha",
-       "nota":9.5,
-       "ranking":10
-     },
-     {
-       "alumno":"Maria Tapia",
-       "nota":5,
-       "ranking":3
-     },
-     {
-       "alumno":"Gabriela Vazquez",
-       "nota":10,
-       "ranking":10
-     },
-     {
-       "alumno":"Johanna Garcia",
-       "nota":9,
-       "ranking":8
-     }
-]}
-     
+        "alumno": "Cindy Cabezas",
+        "nota": 6,
+        "ranking": 5
+      },
+      {
+        "alumno": "Marco Colcha",
+        "nota": 9.5,
+        "ranking": 10
+      },
+      {
+        "alumno": "Maria Tapia",
+        "nota": 5,
+        "ranking": 3
+      },
+      {
+        "alumno": "Gabriela Vazquez",
+        "nota": 10,
+        "ranking": 10
+      },
+      {
+        "alumno": "Johanna Garcia",
+        "nota": 9,
+        "ranking": 8
+      }
+    ]
+  }
