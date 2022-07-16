@@ -1,0 +1,57 @@
+{
+   "notas":[
+      {
+         "alumno":"Daniel Aguilar",
+         "nota":7.09,
+         "ranking":9
+         
+      },
+      {
+        "alumno":"Nicole Es",
+        "nota":8.09,
+        "ranking":5
+        
+     },
+     {
+        "alumno":"Carmen Coral",
+        "nota":10,
+        "ranking":6.5
+        
+     },
+     {
+        "alumno":"Betsabet Guaman",
+        "nota":4,
+        "ranking":2
+        
+     },
+     {
+        "alumno":"Gabriela Vazquez",
+        "nota":4,
+        "ranking":3
+        
+     },
+     {
+        "alumno":"Tatiana Rosero",
+        "nota":9.5,
+        "ranking":3.1
+        
+     },
+     {
+        "alumno":"Jefferson Paez",
+        "nota":1.5,
+        "ranking":3
+        
+     },
+     {
+        "alumno":"Daniela Pailcaho",
+        "nota":2.5,
+        "ranking":4
+        
+     },
+     {
+        "alumno":"Maria Tapia",
+        "nota":9.5,
+        "ranking":3.89
+        
+     }
+]}
